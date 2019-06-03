@@ -168,4 +168,3 @@ select 'O usuário logado no BD é : ' + @sys_usr;
 
 select suser_name ()
 select suser_sname(1)
-
